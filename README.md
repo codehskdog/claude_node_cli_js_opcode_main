@@ -1,0 +1,2 @@
+# claude_node_cli_js_opcode_main
+opcode-main的claude code命令控制js版，opcode-main的原为rust，js版适合用electron开发。
